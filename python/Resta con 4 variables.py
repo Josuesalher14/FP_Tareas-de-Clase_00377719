@@ -1,0 +1,6 @@
+print("ingrese los valores a sumar ")
+num1= int(input("ingrese el primer valor: "))
+num2= int(input("ingrese el segundo valor: "))
+num3= int(input("ingrese el tercer valor: "))
+num4= int(input("ingrese el cuarto valor: "))
+print("el resultado es: "+ str(num1-num2-num3-num4))
